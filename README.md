@@ -11,6 +11,8 @@
 
 ---
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300" /></p>
+
 - 🔭 I’m currently working on [Personal Portfolio Website](https://damithatheekshana.github.io/Portfolio_0.1/)
 
 - 🌱 I’m currently learning **React, Spring Boot, Full-Stack Development, REST APIs, Git & GitHub**
@@ -28,6 +30,8 @@
 - 📫 How to reach me **theekshanadamitha@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning ideas into real projects and continuously learning new technologies to improve my development skills.**
+
+
 
 ---
 
